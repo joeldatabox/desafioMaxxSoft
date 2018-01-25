@@ -13,8 +13,9 @@ Visando a solucionar o problema de Robson, você deve desenvolver uma aplicaçã
 - O front-end deve ser desenvolvido utilizando o framework Angular 4(ou versões posteriores );
 
 **Observações:** 
--  busque utilizar padrões de projetos e boas praticas para futuras manutenções de código;
+- busque utilizar padrões de projetos e boas praticas para futuras manutenções de código;
 - disponibilize sua implementação através de um repositório público do github;
 - documente quais foram as tecnologia utilizadas e seus respectivos papeis(todo o ambiente de desenvolvimento);
 - documente o processo de deploy e as ferramentas utilizadas no mesmo;
-- se possível automatize o processo de deploy;
+- automatize o processo de deploy;
+- grave um video de até 5 minutos apresentando o que foi desenvolvido apresentando as tecnologias utilizadas e seus respectivos papeis
