@@ -18,4 +18,4 @@ Visando a solucionar o problema de Robson, você deve desenvolver uma aplicaçã
 - documente quais foram as tecnologia utilizadas e seus respectivos papeis(todo o ambiente de desenvolvimento);
 - documente o processo de deploy e as ferramentas utilizadas no mesmo;
 - automatize o processo de deploy;
-- grave um video de até 5 minutos apresentando o que foi desenvolvido juntamente com as tecnologias utilizadas e seus respectivos papeis
+- grave um video de até 5 minutos apresentando o que foi desenvolvido juntamente com as tecnologias utilizadas e seus respectivos papeis;
